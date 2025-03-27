@@ -1,0 +1,7 @@
+C:\Users\intro\source\repos\Passcracker\Passcracker\bin\Debug\Passcracker.exe.config
+C:\Users\intro\source\repos\Passcracker\Passcracker\bin\Debug\Passcracker.exe
+C:\Users\intro\source\repos\Passcracker\Passcracker\bin\Debug\Passcracker.pdb
+C:\Users\intro\source\repos\Passcracker\Passcracker\obj\Debug\Passcracker.csproj.AssemblyReference.cache
+C:\Users\intro\source\repos\Passcracker\Passcracker\obj\Debug\Passcracker.csproj.CoreCompileInputs.cache
+C:\Users\intro\source\repos\Passcracker\Passcracker\obj\Debug\Passcracker.exe
+C:\Users\intro\source\repos\Passcracker\Passcracker\obj\Debug\Passcracker.pdb

@@ -1,0 +1,7 @@
+C:\Users\intro\source\repos\Passcracker\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\intro\source\repos\Passcracker\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\intro\source\repos\Passcracker\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\intro\source\repos\Passcracker\stopwatch\obj\Debug\stopwatch.csproj.AssemblyReference.cache
+C:\Users\intro\source\repos\Passcracker\stopwatch\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\intro\source\repos\Passcracker\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\intro\source\repos\Passcracker\stopwatch\obj\Debug\stopwatch.pdb
