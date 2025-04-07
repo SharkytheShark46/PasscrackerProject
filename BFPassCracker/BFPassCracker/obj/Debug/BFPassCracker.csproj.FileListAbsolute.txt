@@ -1,0 +1,7 @@
+C:\Users\intro\source\repos\BFPassCracker\BFPassCracker\bin\Debug\BFPassCracker.exe.config
+C:\Users\intro\source\repos\BFPassCracker\BFPassCracker\bin\Debug\BFPassCracker.exe
+C:\Users\intro\source\repos\BFPassCracker\BFPassCracker\bin\Debug\BFPassCracker.pdb
+C:\Users\intro\source\repos\BFPassCracker\BFPassCracker\obj\Debug\BFPassCracker.csproj.AssemblyReference.cache
+C:\Users\intro\source\repos\BFPassCracker\BFPassCracker\obj\Debug\BFPassCracker.csproj.CoreCompileInputs.cache
+C:\Users\intro\source\repos\BFPassCracker\BFPassCracker\obj\Debug\BFPassCracker.exe
+C:\Users\intro\source\repos\BFPassCracker\BFPassCracker\obj\Debug\BFPassCracker.pdb

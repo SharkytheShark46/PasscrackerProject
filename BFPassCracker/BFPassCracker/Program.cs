@@ -19,7 +19,7 @@ namespace BFPassCracker
             Stopwatch stopWatch = new Stopwatch();
 
             stopWatch.Start();
-            Passrunner(passlenght, pass, maxattempt, Password);
+            Passrunner(passlenght, ref  pass, maxattempt, Password);
             stopWatch.Stop();
 
             #region Stopwatch Shower
@@ -34,7 +34,7 @@ namespace BFPassCracker
             return pass;
         }
 
-        static string Passrunner(int passlenght, string pass, double maxattempt, string Password)
+        static string Passrunner(int passlenght, ref string pass, double maxattempt, string Password)
         {
             int attempt = 0;
             int a = 0, b = 0, c = 0, d = 0, e = 0, f = 0, g = 0, h = 0, i = 0, j = 0, k = 0, l = 0, m = 0, n = 0, o = 0, p = 0;
@@ -48,7 +48,7 @@ namespace BFPassCracker
                 CharCounter(ref a, ref b, ref c, ref d, ref e, ref f, ref g, ref h, ref i, ref j, ref k, ref l, ref m, ref n, ref o, ref p, passlenght);
 
                 ++attempt;
-                Console.WriteLine(pass);
+                //Console.WriteLine(pass);
 
                 if (maxattempt == attempt)
                 {
@@ -61,7 +61,7 @@ namespace BFPassCracker
                     }
                     break;
                 }
-
+                Console.WriteLine(pass);
             } while (pass != Password);
 
             return pass;
@@ -218,11 +218,12 @@ namespace BFPassCracker
 
         static void Main(string[] args)
         {
-            const string Password = "aaaaaaaa";
+            const string Password = "!!!!!aaa";
             string passcheck = PassAttempter(Password);
+
             if (passcheck == Password)
             {
-                Console.WriteLine("Pass is cracked.");
+                Console.Write("Pass is cracked. Password is: ");
                 Console.WriteLine(passcheck);
             }
             else
